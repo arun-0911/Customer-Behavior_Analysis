@@ -7,7 +7,7 @@ This project focuses on analyzing customer behavior using a complete data analyt
 
 The goal of this project is to understand customer purchasing patterns, revenue distribution across age groups, and key factors influencing customer behavior.
 
-**🛠 Tools & Technologies**
+**Tools & Technologies**
 
 Python
 
@@ -19,7 +19,7 @@ Microsoft Power BI
 
 Visual Studio Code
 
-**📂 Project Workflow**
+**Project Workflow**
 
 1️⃣ Data Loading
 
@@ -79,8 +79,8 @@ Sales trends
 
 Key performance indicators (KPIs)
 
-Author
+
+**Author**
 
 Arun Yadav
 
-Aspiring Data Analyst
