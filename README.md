@@ -79,6 +79,9 @@ Sales trends
 
 Key performance indicators (KPIs)
 
+# Dashboard Preview:
+
+![Dashboard](dashboard.png)
 
 **Author**
 
